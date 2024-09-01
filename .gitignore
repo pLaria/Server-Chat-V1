@@ -1,0 +1,11 @@
+# Ignorar el directorio de dependencias
+node_modules/
+
+# Ignorar archivos de configuración de Vercel
+.vercel/
+
+# Ignorar archivos de configuración de paquetes
+package-lock.json
+
+# Ignorar otros archivos que no quieras subir al repositorio
+*.env
